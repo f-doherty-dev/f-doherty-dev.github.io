@@ -7,7 +7,7 @@
 :root {
   --bg:        #1F3731;   /* page background — near black, not pure black */
   --surface:   #16161F;   /* cards and panels */
-  --line:      #2A2A38;   /* borders and dividers */
+  --line:      #D3D3D3;   /* borders and dividers */
   --text:      #E8E8F0;   /* body text */
   --muted:     #9A9AB0;   /* secondary text */
   --accent:    #FF5A1F;   /* links, highlights, the one loud colour */
