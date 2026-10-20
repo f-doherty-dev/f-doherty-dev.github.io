@@ -10,7 +10,7 @@
   --line:      #D3D3D3;   /* borders and dividers */
   --text:      #E8E8F0;   /* body text */
   --muted:     #D3D3D3;   /* secondary text */
-  --accent:    #87ae73;   /* links, highlights, the one loud colour */
+  --accent:    #87AE73;   /* links, highlights, the one loud colour */
   --accent-2:  #00D6D6;   /* a second accent, used sparingly */
 
   --display: "Space Grotesk", system-ui, sans-serif;
